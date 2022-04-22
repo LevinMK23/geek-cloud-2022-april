@@ -18,7 +18,11 @@
 
 
     <dependencies>
-
+        <dependency>
+            <groupId>com.geekbrains.cloud.april-2022</groupId>
+            <artifactId>geek-cloud-core</artifactId>
+            <version>1</version>
+        </dependency>
     </dependencies>
 
 </project>

@@ -17,7 +17,6 @@ import java.util.stream.Collectors;
 public class Terminal {
 
     // TODO: 19.04.2022 implement commands: cat, cd, mkdir, touch
-
     private Path dir;
     private final ServerSocketChannel serverChannel;
     private final Selector selector;
